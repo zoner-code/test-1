@@ -1,0 +1,20 @@
+{"app":[
+    {
+        "name":"后台管理",
+        "description":""
+    }
+],
+    "menu" : [
+        {
+            "text": "主导航",
+            "link": "/map",
+            "children": [
+                {
+                    "text":"首页",
+                    "link":"/map",
+                    "icon":"{ type: 'icon',value: 'rocket'}"
+                    }
+                    ]
+                    }
+                ]
+    }
